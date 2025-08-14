@@ -1,6 +1,7 @@
 # Publications : 
 
 - **Opensea TokenId : Explained**
-  - When creating NFTs in Opensea without a contract of your own, A huge number is given as the Token ID.
-  - This Blog explains the big tokenId blob.
+  - When creating a NFT in **Opensea**, by just uploading the images & metadata.
+  - The NFT is deployed in Opensea's NFT contract and a huge number is given as its Token ID.
+  - This blog explains the big tokenId blob.
   - Blog link : [opensea-tokenid-explained](https://medium.com/coinmonks/opensea-tokenid-explained-f420401f5109)
