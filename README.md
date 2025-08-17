@@ -16,4 +16,8 @@
 
 <br/>
 
-- **Dutch Auction**
+- **Dutch Auction — IPO/ICO**
+  - A basic approach of IPO / ICO using Dutch Auction mechanism and on why its been adopted widely in the blockchain space.
+
+
+
