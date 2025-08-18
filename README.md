@@ -20,4 +20,5 @@
   - A basic approach of IPO / ICO using Dutch Auction mechanism and on why its been adopted widely in the blockchain space.
   - Blog link : [Dutch Auction — IPO/ICO](https://medium.com/coinmonks/dutch-auction-ipo-ico-e02d4441a286)
 
-
+- **Solana School :**
+  - [Lesson 1](https://medium.com/coinmonks/solana-school-lesson-1-learn-solana-architecture-proof-of-history-and-alpenglow-71ffa3dbd39b) : 
