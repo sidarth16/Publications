@@ -22,3 +22,7 @@
 
 - **Solana School :**
   - [Lesson 1](https://medium.com/coinmonks/solana-school-lesson-1-learn-solana-architecture-proof-of-history-and-alpenglow-71ffa3dbd39b) : 
+    - Intro  to Solana, Its current state and its core architecture,
+    - Gulf Stream + SWQoS and Processing Transactions
+    - Proof of History(PoH), Sealevel, Turbine, and Account-Based Storage Model
+    - A Glimpse Into Solana’s Future -- Alpenglow Runtime
