@@ -8,7 +8,7 @@
 
 <br/>
 
-- **Rentable NFTs (ERC-4907)**
+- **Rentable NFTs (ERC-4907) :**
   - [Rentable NFTs (ERC-4907) : Part I](https://medium.com/coinmonks/rentable-nfts-erc-4907-949225d476a9)
     - What is NFT Rental, Why do we need it, What is ERC 4907 . . . ?
   - [Rentable NFTs (ERC-4907) : Part II](https://medium.com/coinmonks/rentable-nfts-erc-4907-part-ii-954cc27d22e9)
@@ -20,9 +20,11 @@
   - A basic approach of IPO / ICO using Dutch Auction mechanism and on why its been adopted widely in the blockchain space.
   - Blog link : [Dutch Auction — IPO/ICO](https://medium.com/coinmonks/dutch-auction-ipo-ico-e02d4441a286)
 
+<br/>
+
 - **Solana School :**
   - [Lesson 1](https://medium.com/coinmonks/solana-school-lesson-1-learn-solana-architecture-proof-of-history-and-alpenglow-71ffa3dbd39b) : 
     - Intro  to Solana, Its current state and its core architecture,
     - Gulf Stream + SWQoS and Processing Transactions
     - Proof of History(PoH), Sealevel, Turbine, and Account-Based Storage Model
-    - A Glimpse Into Solana’s Future -- Alpenglow Runtime
+    - Alpenglow Runtime - A Glimpse Into Solana’s Future
