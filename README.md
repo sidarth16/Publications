@@ -23,10 +23,10 @@
 <br/>
 
 - **Solana School :**
-  - [Lesson 1](https://medium.com/coinmonks/solana-school-lesson-1-learn-solana-architecture-proof-of-history-and-alpenglow-71ffa3dbd39b) : 
+  - [Lesson 1](https://medium.com/@sidarths/solana-school-lesson-4-solana-programming-model-ii-advanced-cpi-pda-with-hands-on-examples-d374506e4ad2) : 
     - Intro  to Solana, Its current state and its core architecture,
     - Gulf Stream + SWQoS and Processing Transactions
     - Proof of History(PoH), Sealevel, Turbine, and Account-Based Storage Model
     - Alpenglow Runtime - A Glimpse Into Solana’s Future
    
-  - [Lesson 3](https://medium.com/coinmonks/solana-school-lesson-3-solana-programming-model-i-accounts-anchor-pda-cpi-explained-9bbc34a57b23) : 
+  - [Lesson 3](https://medium.com/@sidarths/solana-school-lesson-3-solana-programming-model-i-accounts-anchor-pda-cpi-explained-9bbc34a57b23) : 
