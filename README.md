@@ -33,3 +33,9 @@
     - Solana Program, Accounts Model & Program Types
     - Anchor Framework, PDAs and CPI and how to implement in anchor
     - Error handling in Anchor
+   
+  - [Lesson 4](https://medium.com/@sidarths/solana-school-lesson-4-solana-programming-model-ii-advanced-cpi-pda-with-hands-on-examples-d374506e4ad2) :
+    - PDA , CPI — Deep Dive Hands-On Example using anchor (PDA + CPI)
+    - Simple storage program for an on-chain game 
+    - Bonus : Using Hashed PDA Seeds in Anchor
+
