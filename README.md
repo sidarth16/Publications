@@ -38,4 +38,6 @@
     - PDA , CPI — Deep Dive with Hands-On Example using anchor (PDA + CPI)
     - Simple storage program for an on-chain game 
     - Bonus : Using Hashed PDA Seeds in Anchor
-
+   
+  - [Lesson 5](https://medium.com/@sidarths/solana-school-lesson-5-best-dev-debug-practices-common-errors-20cd32f3ba8c) :
+   
