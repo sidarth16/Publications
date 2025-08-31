@@ -40,4 +40,5 @@
     - Bonus : Using Hashed PDA Seeds in Anchor
    
   - [Lesson 5](https://medium.com/@sidarths/solana-school-lesson-5-best-dev-debug-practices-common-errors-20cd32f3ba8c) :
+     - This guide covers best development and debugging practices — from structuring your project to testing and handling common pitfalls.
    
