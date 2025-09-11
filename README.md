@@ -29,7 +29,7 @@
     - Proof of History(PoH), Sealevel, Turbine, and Account-Based Storage Model
     - Alpenglow Runtime - A Glimpse Into Solana’s Future
    
-  - [Lesson 3](https://medium.com/@sidarths/solana-school-lesson-3-solana-programming-model-i-accounts-anchor-pda-cpi-explained-9bbc34a57b23) :
+  - [Lesson 3 : Solana Programming Model I (Accounts, Anchor, PDA, CPI — Explained)](https://medium.com/@sidarths/solana-school-lesson-3-solana-programming-model-i-accounts-anchor-pda-cpi-explained-9bbc34a57b23) :
     - Solana Program, Accounts Model & Program Types
     - Anchor Framework, PDAs and CPI and how to implement in anchor
     - Error handling in Anchor
